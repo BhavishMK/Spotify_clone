@@ -1,3 +1,4 @@
+![Screenshot 2024-11-15 233710](https://github.com/user-attachments/assets/86bfb5f2-2760-45de-af7e-9d015f7de1cd)
 # Spotify_clone
 Spotify Music Player  interface using HTML ,CSS and Javascript
 # Spotify Clone Project
